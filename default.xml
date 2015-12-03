@@ -1,0 +1,13 @@
+<manifest>
+	<remote name="github" fetch="https://github.com"/>
+
+	<default revision="refs/heads/master" remote="github" sync-j="4"/>
+
+	<project name="myles/mylesb.ca" remote="github" path="mylesb.ca"/>
+	<project name="myles/mylesbraithwaite.org" remote="github"
+		path="mylesbraithwaite.org"/>
+	<project name="myles/mylesbraithwaite.com" remote="github"
+		path="mylesbraithwaite.com"/>
+	<project name="myles/youaretheworst.today" remote="github"
+		path="youaretheworst.today"/>
+</manifest>
