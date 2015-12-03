@@ -1,5 +1,5 @@
 <manifest>
-    <remote name="github" fetch="git@github.com"/>
+    <remote name="github" fetch="ssh://git@github.com"/>
     <default revision="refs/heads/master" remote="github" sync-j="4"/>
     <project name="myles/mylesb.ca.git" remote="github" path="mylesb.ca"/>
     <project name="myles/mylesbraithwaite.org.git" remote="github"
