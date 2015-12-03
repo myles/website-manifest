@@ -4,8 +4,7 @@ This is where I store the [git-repo](https://gerrit.googlesource.com/git-repo) m
 
 ## Requirements
 
-* Git
-* git-repo (can be installed using Homebrew, `brew install repo`, for Linux see [the documentation](http://source.android.com/source/downloading.html#installing-repo))
+There are two requirements Git and git-repo. You can install git-repo on Homebrew with `brew install repo` and on Linux please see the [the Android documentation](http://source.android.com/source/downloading.html#installing-repo).
 
 ## Usage
 
