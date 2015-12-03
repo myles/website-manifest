@@ -8,5 +8,5 @@ There are two requirements Git and git-repo. You can install git-repo on Homebre
 
 ## Usage
 
-	$ repo init -u "https://github.com/myles/website-manifest.git"
+	$ repo init -u "git@github.com:myles/website-manifest.git"
 	$ repo sync
