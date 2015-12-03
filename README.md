@@ -9,5 +9,5 @@ This is where I store the [git-repo](https://gerrit.googlesource.com/git-repo) m
 
 ## Usage
 
-	$ repo init -u "https://github.com/myles/website-manifest"
+	$ repo init -u "https://github.com/myles/website-manifest.git"
 	$ repo sync
