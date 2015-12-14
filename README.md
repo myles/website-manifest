@@ -1,4 +1,4 @@
-# Website Repositories
+# Web `{Sites,Services,Apps}` Manifest
 
 This is where I store the [git-repo](https://gerrit.googlesource.com/git-repo) manifest file for for all of my website git repositories.
 
